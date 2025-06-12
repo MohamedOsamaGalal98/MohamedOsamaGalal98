@@ -1,11 +1,11 @@
 <h1 align="center">
 Hi, I'm Mohamed Osama Galal Hassan
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7giphy.gif" width="30">
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Laravel+Backend+Developer;Clean+Code+Enthusiast;API+and+Security+Specialist;&center=true&width=450&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Backend+Developer;Clean+Code+Enthusiast;API+and+Security+Specialist;&center=true&width=450&height=45">
   </a>
 </p>
 
@@ -36,10 +36,8 @@ Hi, I'm Mohamed Osama Galal Hassan
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedOsamaGalal98&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedOsamaGalal98&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=MohamedOsamaGalal98&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedOsamaGalal98&layout=compact&theme=dark&hide_border=true)
 
 ---
 
