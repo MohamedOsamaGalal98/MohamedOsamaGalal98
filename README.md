@@ -9,12 +9,6 @@ Hi, I'm Mohamed Osama Galal Hassan
   </a>
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=MohamedOsamaGalal98&icon=5&color=9">
-    <img src="https://visitcount.itsvg.in/api?id=MohamedOsamaGalal98&icon=5&color=9">
-  </a>
-</p>
-
 <img src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" width="100%" />
 
 📬 contact: **m.osama2798@gmail.com**  
