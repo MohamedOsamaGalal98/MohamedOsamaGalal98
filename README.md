@@ -5,7 +5,7 @@ Hi, I'm Mohamed Osama Galal Hassan
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Laravel+Backend+Developer;Clean+Code+Enthusiast;API+and+Security+Specialist;&center=true&width=450&height=45">
+    <img src="https://readme-typing-svg.demolab.com?lines=Laravel+Backend+Developer;Clean+Code+Enthusiast;API+and+Security+Specialist;&center=true&width=450&height=45">
   </a>
 </p>
 
