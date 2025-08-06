@@ -19,7 +19,7 @@ Hi, I'm Eng/ Mohamed Osama Galal Hassan
 
 ### 💼 About Me
 
-- 💻 Experienced Laravel Backend Developer with 3.5+ years of experience.
+- 💻 Experienced Laravel Backend Developer with 2+ years of experience.
 - 🔐 Specialized in authentication, role management, and secure scalable APIs.
 - 🧠 Background in Mechatronics Engineering – AAST (GPA 3.7).
 - 🌍 Currently working at **Marketopia**, building food systems, e-commerce, CRM, and real-time chat apps.
